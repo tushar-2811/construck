@@ -33,6 +33,8 @@ const HeroSection = () => {
                 fill="white"
             />
 
+
+
             <div className='p-8 relative z-10 w-full text-center'>
                 <h1 className='mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400'
                 >We build your dreams with passion</h1>
